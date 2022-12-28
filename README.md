@@ -1,6 +1,5 @@
 # portfolio
-## [branch] template
-*unlock*
+## template
 > - index.html
 > - imagesContenu
 > - ui/css/styles.css
